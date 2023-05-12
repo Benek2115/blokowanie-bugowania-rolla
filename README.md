@@ -1,0 +1,1 @@
+# blokowanie-bugowania-rolla
